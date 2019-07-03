@@ -1,2 +1,3 @@
 # hello-world
-A first try
+
+I study physics and I'm particularly interested in nucleosynthesis and the formation and evolution of stars.
